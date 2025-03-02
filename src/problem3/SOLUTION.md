@@ -19,7 +19,7 @@ This diagram show a cloud-native and microservice-base architecture of trading s
 - **Backup Service**: A schedule, simple backup solution provided for RDS PostgreSQL, S3.
 - **RDS PostgreSQL**: A managed relational database service for storing transactional data.
 - **MemoryDB**: An high-performance, in-memory key-value database service, use for caching
-### Alternatives solution to consider
+### Alternative solutions to consider
 - **EKS**: consider to use self-hosted K8s cluster
 - **S3**: self-hosted [MinIO](https://min.io/) with high IOPS EBS volume (high throughput)
 - **SNS**: [Firebase](https://firebase.google.com/), if almost of your users use mobile app
