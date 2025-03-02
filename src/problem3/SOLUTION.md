@@ -1,5 +1,7 @@
 Provide your solution here:
 ![Trading system architecture](./99tech.drawio.png)
+> Diagram link: [https://drive.google.com/file/d/1zHYgiHgq8XPCsWgUv6hgnIhq3q_PYvKq/view?usp=sharing](https://drive.google.com/file/d/1zHYgiHgq8XPCsWgUv6hgnIhq3q_PYvKq/view?usp=sharing)
+
 This diagram show a cloud-native and microservice-base architecture of trading system like Binance. Here are some key features in this system
 
 ## Infrastructure-level components
